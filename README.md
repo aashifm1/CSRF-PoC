@@ -6,7 +6,7 @@ A simple web-based tool to generate CSRF (Cross-Site Request Forgery) Proof of C
 
 ## 🌐 Live Demo
 
-Access the tool here: [Website](https://aashifm1.github.io/CSRF-PoC/))
+Access the tool here: [Live Website](https://aashifm1.github.io/CSRF-PoC/)
 
 
 ## Features
